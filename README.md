@@ -14,7 +14,7 @@ The source data is stored in S3 and consists of two types of JSON files:
     log_data/2018/11/2018-11-12-events.json
     log_data/2018/11/2018-11-13-events.json
     ```
-![Staging Events](home/workspace/er_diagram/er_diagram_song_app_er_diagram.png)
+![Staging Events](Screen Shot 2023-10-14 at 11.03.30.png)
 
 ## Star Schema
 The ETL process in this project creates a star schema optimized for song play analysis. The schema includes the following tables:
